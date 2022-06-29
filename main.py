@@ -12,7 +12,7 @@ options = {
 
 jira = JIRA(options, basic_auth=(user,apikey) )
 
-#python_
+#python_new
 
 #ticket = 'SRMDEV-210'
 #issue = jira.issue(ticket)
