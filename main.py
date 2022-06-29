@@ -12,6 +12,8 @@ options = {
 
 jira = JIRA(options, basic_auth=(user,apikey) )
 
+#python_
+
 #ticket = 'SRMDEV-210'
 #issue = jira.issue(ticket)
 
